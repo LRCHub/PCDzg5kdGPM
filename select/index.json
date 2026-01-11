@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はるのとなり",
+  "base_artist": "佐々木恵梨",
+  "createdAt": "2026-01-11T15:11:57.299597Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はるのとなり",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_01_はるのとなり_佐々木恵梨.txt"
+    }
+  ]
+}
